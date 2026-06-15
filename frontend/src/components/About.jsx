@@ -21,21 +21,19 @@ export default function About() {
             transition={{ duration: 0.6 }}
           >
             <div className="section-tag">
-              <Bot size={12} /> Sobre a SynapseAI
+              <Bot size={12} /> Quem somos nós
             </div>
             <h2 className="about__title">
-              Engenheiros que
+              Equipe localizada em
               <br />
-              <span>entendem negócio</span>
+              <span>São Roque - SP</span>
             </h2>
             <p className="about__text">
-              Somos uma equipe multidisciplinar — engenheiros de software, cientistas de
-              dados e especialistas em IA — unidos pela obsessão em fazer tecnologia
-              complexa funcionar de forma simples.
+              Somos uma equipe multidisciplinar e mesclada — engenheiros de software, cientistas de
+              dados, especialistas em IA e Automação e especialista em Infraestrutura.
             </p>
             <p className="about__text">
-              Fundada em 2021, a SynapseAI nasceu da frustração com projetos de IA que
-              nunca saíam do POC. Hoje entregamos sistemas em produção, com SLA, com
+              Fundada em 2026, nossa empresa nasceu da frustração com projetos de que não saíam do POC. Hoje entregamos sistemas em produção, com testes, validações e escalabilidade, com
               documentação, e com o cliente capaz de operar e evoluir o que criamos.
             </p>
             <a href="#contato" className="about__cta">
