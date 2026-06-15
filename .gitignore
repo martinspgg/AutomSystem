@@ -1,0 +1,33 @@
+# Dependências
+node_modules/
+frontend/node_modules/
+
+# Build
+dist/
+frontend/dist/
+build/
+frontend/build/
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Cache Vite
+frontend/.vite/
+
+# Editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
