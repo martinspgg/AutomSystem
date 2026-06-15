@@ -9,10 +9,10 @@ export default function Footer() {
             <Zap size={12} strokeWidth={2.5} />
           </div>
           <span className="footer__brand-name">
-            Synapse<em>AI</em>
+            Autom<em>System</em>
           </span>
         </div>
-        <p className="footer__copy">© 2024 SynapseAI · Todos os direitos reservados</p>
+        <p className="footer__copy">© 2026 · Todos os direitos reservados</p>
         <div className="footer__links">
           <a href="#" className="footer__link">Privacidade</a>
           <a href="#" className="footer__link">Termos</a>

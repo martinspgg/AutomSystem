@@ -57,22 +57,22 @@ export default function Hero() {
           </a>
         </motion.div>
 
-        <motion.div
-          initial={{ opacity: 0, y: 24 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, delay: 0.5 }}
-          className="hero__stats"
-        >
-          {stats.map((s) => (
-            <div key={s.label} className="hero__stat">
-              <div className="hero__stat-value">
-                {s.value}<span>{s.suffix}</span>
+          <motion.div
+            initial={{ opacity: 0, y: 24 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.5 }}
+            className="hero__stats"
+          >
+            {stats.map((s) => (
+              <div key={s.label} className="hero__stat">
+                <div className="hero__stat-value">
+                  {s.value}<span>{s.suffix}</span>
+                </div>
+                <div className="hero__stat-label">{s.label}</div>
               </div>
-              <div className="hero__stat-label">{s.label}</div>
-            </div>
-          ))}
-        </motion.div>
-      </div>
+            ))}
+          </motion.div>
+        </div>
     </section>
   );
 }

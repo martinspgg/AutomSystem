@@ -30,14 +30,13 @@ export default function Contact() {
             <span>automatizar?</span>
           </h2>
           <p className="contact__desc">
-            Conte seu desafio. Em 48 horas temos uma call de descoberta agendada e
-            uma proposta técnica real — sem apresentação genérica de deck.
+            Se interessou? Entre em contato e nos conte sobre seu projeto. Retornaremos em até 24 horas.
           </p>
 
           <div className="contact__actions">
-            <a href="mailto:contato@synapseai.com.br" className="contact__btn-primary">
+            <a href="mailto:contato@automsystem.com.br" className="contact__btn-primary">
               <Mail size={16} />
-              contato@synapseai.com.br
+              contato@automsystem.com.br
             </a>
             <a href="https://wa.me/5511999999999" className="contact__btn-secondary">
               WhatsApp direto <ArrowRight size={16} className="icon" />

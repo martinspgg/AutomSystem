@@ -76,19 +76,19 @@ export const projects = [
 export const services = [
   {
     title: "Automação Inteligente",
-    desc: "RPA, bots e agentes autônomos que eliminam trabalho repetitivo e integram seus sistemas sem código legado.",
+    desc: "Bots e agentes autônomos que eliminam trabalho repetitivo e integram seus sistemas sem código legado.",
     color: "#00d4aa",
     iconName: "Bot",
   },
   {
     title: "IA Aplicada",
-    desc: "LLMs, visão computacional e NLP integrados diretamente nos seus processos de negócio — sem fricção, com resultado.",
+    desc: "LLMs integrados diretamente nos seus processos de negócio — sem fricção, focado em resultado.",
     color: "#6366f1",
     iconName: "Brain",
   },
   {
     title: "Dados e Analytics",
-    desc: "Pipelines de dados em tempo real, dashboards executivos e modelos preditivos com valor mensurável.",
+    desc: "Sistemas com base na sua própria data. Utilizando dashboards e alertas preditivos para decisões mais rápidas e informadas.",
     color: "#f59e0b",
     iconName: "BarChart3",
   },
@@ -103,7 +103,6 @@ export const services = [
 export const stats = [
   { value: "47", suffix: "+", label: "Projetos entregues" },
   { value: "94", suffix: "%", label: "Redução média de tempo" },
-  { value: "12", suffix: "×", label: "ROI médio no 1º ano" },
   { value: "3", suffix: "anos", label: "De expertise acumulada" },
 ];
 

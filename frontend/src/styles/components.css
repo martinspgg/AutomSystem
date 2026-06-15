@@ -289,13 +289,13 @@
 
 .hero__stats {
   margin-top: 5rem;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
   max-width: 48rem;
-  margin-left: auto;
-  margin-right: auto;
 }
+
 
 @media (min-width: 768px) {
   .hero__stats { grid-template-columns: repeat(4, 1fr); }

@@ -26,7 +26,7 @@ export default function Nav() {
             <Zap size={16} strokeWidth={2.5} />
           </div>
           <span className="nav__brand-name">
-            Synapse<em>AI</em>
+            Autom<em>System</em>
           </span>
         </a>
 

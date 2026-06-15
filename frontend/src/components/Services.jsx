@@ -27,8 +27,7 @@ export default function Services() {
             <span>geram resultado real</span>
           </h2>
           <p className="section-desc">
-            Combinamos expertise técnica profunda com foco pragmático em ROI. Sem
-            buzzwords — apenas sistemas que funcionam.
+            Combinamos expertise técnica profunda com foco pragmático em atender e solucionar problemas. Utilizando ferramentas que melhoram a eficiência e o desempenho dos nossos clientes.
           </p>
         </motion.div>
 
