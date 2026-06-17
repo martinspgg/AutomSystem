@@ -20,7 +20,7 @@ export const projects = [
     tech: ["Python", "TypeScript", "Industrial Data", "N8N", "LLM Integrado"],
     image: "photo-1677442135703-1787eea5ce01",
     accent: "#6366f1",
-    result: "98% resolução autônoma",
+    result: "Busca e Análise de dados automatizada",
     year: "2026",
   },
   {
@@ -29,47 +29,11 @@ export const projects = [
     category: "CyberSecurity",
     description:
       "Dashboard para testes de phishing em empresa de médio porte — simula ataques e monitora engajamento para fortalecer a segurança interna.",
-    tech: ["Next.js", "ClickHouse", "Apache Flink", "D3.js"],
+    tech: ["Python", "GoPhising", "C", "Golang", "React.js", "MySql"],
     image: "photo-1551434678-e076c223a692",
     accent: "#da1313 ",
-    result: "2M+ eventos/dia",
+    result: "Ajustes e Treinamentos de segurança",
     year: "2026",
-  },
-  {
-    id: 4,
-    name: "1",
-    category: "API Integration",
-    description:
-      "1",
-    tech: ["Node.js", "GraphQL", "RabbitMQ", "Docker"],
-    image: "1",
-    accent: "#10b981",
-    result: "12 sistemas unificados",
-    year: "2023",
-  },
-  {
-    id: 5,
-    name: "1",
-    category: "Visão Computacional",
-    description:
-      "1.",
-    tech: ["PyTorch", "OpenCV", "ONNX", "Edge AI"],
-    image: "1",
-    accent: "#ec4899",
-    result: "99.3% de precisão",
-    year: "2024",
-  },
-  {
-    id: 6,
-    name: "1",
-    category: "Machine Learning",
-    description:
-      "1",
-    tech: ["Python", "XGBoost", "MLflow", "Airflow"],
-    image: "1",
-    accent: "#f59e0b",
-    result: "31% menos ruptura",
-    year: "2023",
   },
 ];
 
